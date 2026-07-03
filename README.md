@@ -26,7 +26,6 @@ git clone https://github.com/yourusername/mscripts
 
 ## Scripts
 ```
-mscripts/
 ├── farms/
 │   └── mining/
 │       └── auto_cobble.py
